@@ -1,0 +1,12 @@
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\bin\Debug\InternetSpeedTestSurvey.exe.config
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\bin\Debug\InternetSpeedTestSurvey.exe
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\bin\Debug\InternetSpeedTestSurvey.pdb
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\bin\Debug\InternetSpeedTestSurvey.xml
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.vbprojAssemblyReference.cache
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.frmInter.resources
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.Resources.resources
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.vbproj.GenerateResource.cache
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.exe
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.xml
+E:\Visual Basic\InternetSpeedTestSurvey\InternetSpeedTestSurvey\obj\Debug\InternetSpeedTestSurvey.pdb
